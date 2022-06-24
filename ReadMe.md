@@ -9,6 +9,11 @@ In this project, we will take a look at the analysis of the Airbnb dataset for B
 * Reviewer’s general mood to check review reliability,
 * The mood around listings, customer satisfaction, and positivity
 
+## Blog post
+
+I wrote a blog to explain the project and the questions we solved in the code, do take a look if it is something you are interested in.
+https://medium.com/@anand0427/how-should-you-choose-airbnb-346a869870f2
+
 ## Dependencies
 
 1. Software dependencies
@@ -33,3 +38,5 @@ In this project, we will take a look at the analysis of the Airbnb dataset for B
     `jupyter lab`
 
 3. When the application launches, go to the notebook `AirBNB EDA.ipynb` and run all the cells. 
+
+## Blog post
